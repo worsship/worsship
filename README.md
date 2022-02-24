@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @worship
 - 👀 I’m interested in ... programming and coding
 - 🌱 I’m currently learning ...IT and hope to progress in programming
-- 💞️ I’m looking to collaborate on different coding training an progrmming
+- 💞️ I’m looking to collaborate on different coding training and progrmming
 - 📫 How to reach me ... worshipndlovu0616@gmail.com
 
 <!---
